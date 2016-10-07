@@ -1,0 +1,11 @@
+---
+title:  "233333"
+subtitle: "233333"
+author: "三金"
+avatar: "img/authors/xibao.png"
+image: "img/1.jpg"
+date:   2016-10-07 12:12:12
+---
+
+### 假期最后一天了
+如题，我要疯了。
